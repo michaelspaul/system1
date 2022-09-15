@@ -1,0 +1,3 @@
+[submodule "library1"]
+	path = library1
+	url = https://github.com/michaelspaul/library1.git
